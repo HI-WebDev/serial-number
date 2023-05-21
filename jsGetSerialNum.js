@@ -1,6 +1,6 @@
 let serial = document.querySelector('.box .serial');
 let generate = document.querySelector('.box .generate');
-let CurrentCount = 15;
+let CurrentCount = 20;
 let started = false;
 
 // method 1

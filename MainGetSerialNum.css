@@ -20,13 +20,13 @@ body {
 
 .serial {
     background-color: #9e9e9e;
-    width: 200px;
-    height: 40px;
+    width: 100%;
+    height: auto;
     padding: 10px;
     border-radius: 4px;
     font-weight: bold;
     text-transform: capitalize;
-    margin: 5px auto 35px;
+    margin: 10px auto 40px;
 }
 
 .generate {
